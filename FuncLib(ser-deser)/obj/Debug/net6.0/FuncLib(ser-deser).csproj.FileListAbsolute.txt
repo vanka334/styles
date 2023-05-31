@@ -1,0 +1,12 @@
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\bin\Debug\net6.0\FuncLib(ser-deser).deps.json
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\bin\Debug\net6.0\FuncLib(ser-deser).dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\bin\Debug\net6.0\FuncLib(ser-deser).pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).csproj.AssemblyReference.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).AssemblyInfoInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).AssemblyInfo.cs
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).csproj.CoreCompileInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\refint\FuncLib(ser-deser).dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\FuncLib(ser-deser).pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\styles\FuncLib(ser-deser)\obj\Debug\net6.0\ref\FuncLib(ser-deser).dll
